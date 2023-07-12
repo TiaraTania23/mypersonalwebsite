@@ -9,7 +9,7 @@ In home section, that shows my name and my photo.
 
 ## Hello I'm Tiara Tania
 
-![my photo](<WhatsApp Image 2023-07-11 at 11.40.38.jpg>))
+[![my photo](https://i.postimg.cc/dVMP8fgG/Whats-App-Image-2023-07-11-at-11-40-38.jpg)](https://postimg.cc/4m1SGWf3)
 
 ## About me
 In about me, that shows my name, my address my age, my education, my hobby, my favorite food, and my motivation.
