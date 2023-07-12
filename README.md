@@ -20,3 +20,5 @@ In contact me, that shows my email.
 ## My web Desain
 
 you can visit [figma link](https://www.figma.com/file/todRxvH0DMHWD0V47Vieb2/Tugas-Tiara-Tania?type=design&node-id=0%3A1&mode=design&t=ul9DNbpSwpUf0yMy-1 )
+
+telah diubah pada 12 juli 2023.
