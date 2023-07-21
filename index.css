@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Potta+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Potta+One&display=swap");
+
+body {
+  background-color: #c17d7d;
+}
+
+.logo {
+  color: brown;
+  font-family: "Jim NightShade";
+}
+.nav-1,
+.nav-2,
+.nav-3 {
+  margin-right: 20px;
+  text-decoration: none;
+  color: rgb(239, 240, 241);
+  font-family: "Poppins";
+  font-style: bold;
+}
+
+.salam-kenal {
+  text-align: left;
+  color: aliceblue;
+  font-family: "Potta One";
+  font-size: larger;
+}
+
+.my-photo {
+  display: block;
+  margin-left: 5%;
+}
+
+.lebih-lanjut {
+  text-align: left;
+}
